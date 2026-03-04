@@ -1,0 +1,4 @@
+# No third-party pip packages are required.
+# Runtime requirements:
+# - Python 3.10+
+# - Tk support for Python (tkinter, usually included with standard Python installers)
